@@ -2,7 +2,8 @@
 Ye repo mere DevOps learning ke scripts ka collection hai.
 ## Scripts
 ### 1. Phone_health..SH
-**Kaam**: Server ka health check kerta hai 
+**Kaam**: Server ka health check kerta hai
+
 **Kya Check kerta hai**:
 -CPU
 -Memory Usage
@@ -12,3 +13,4 @@ Ye repo mere DevOps learning ke scripts ka collection hai.
 **Kaise Chalaye**:
 '''bash
 bash phone_health..sh
+  
