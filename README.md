@@ -1,7 +1,5 @@
 # DevOps Scripts Collection
-
 Ye repo mere DevOps learning ke scripts ke collection hai.
-
 ## Scripts
 
 ### 1. phone_health.sh
@@ -16,4 +14,4 @@ Ye repo mere DevOps learning ke scripts ke collection hai.
 **Kaise Chalaye:**
 ```bash
 bash phone_health.sh
-**Skills:** Bash, Linux, Monitoring
+
