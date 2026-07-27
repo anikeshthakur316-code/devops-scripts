@@ -20,3 +20,6 @@ Phone/server ki health check karta hai - Disk, RAM, CPU.
 
 ## Topics
 `bash` `devops` `linux` `automation` `shell-script`
+
+## 3. disk_usage.sh
+Server ka Disk, RAW, CPU check kerta hai. Use: bash disk_usage.sh
