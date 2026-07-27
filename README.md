@@ -8,12 +8,12 @@ Ye repo mere DevOps learning ke scripts ke collection hai.
 **Kaam:** Server ka health check kerta hai
 
 **Kya Check kerta hai:**
--CPU
--Memory Usage
--Disk Space
--Uptime
+- CPU
+- Memory Usage
+- Disk Space
+- Uptime
 
 **Kaise Chalaye:**
 ''bash'
 bash phone_health.sh
-'''
+
