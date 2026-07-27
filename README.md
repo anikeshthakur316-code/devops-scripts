@@ -14,6 +14,6 @@ Ye repo mere DevOps learning ke scripts ke collection hai.
 - Uptime
 
 **Kaise Chalaye:**
-'''bash
+```bash
 bash phone_health.sh
 
