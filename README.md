@@ -4,7 +4,7 @@ Ye repo mere DevOps learning ke scripts ke collection hai.
 
 ## Scripts
 
-### 1. Phone_health..sh
+### 1. phone_health.sh
 **Kaam:** Server ka health check kerta hai
 
 **Kya Check kerta hai:**
@@ -13,7 +13,7 @@ Ye repo mere DevOps learning ke scripts ke collection hai.
 -Disk Space
 -Uptime
 
-**Ka Chalaye:**
-'''bash
-bash phone_health..sh
-  
+**Kaise Chalaye:**
+''bash'
+bash phone_health.sh
+'''
